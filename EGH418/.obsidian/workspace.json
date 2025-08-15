@@ -8,31 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6b708c9025904b0c",
+            "id": "ea8a9b0a802f27df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 2/Basics.md",
+                "file": "Lecture 4/Inverse Dynamics in 3D.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basics"
+              "title": "Inverse Dynamics in 3D"
             }
           },
           {
-            "id": "0cee2041d589b9b2",
+            "id": "2a86f9b32bf0795c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture 1/Newton’s Laws.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Newton’s Laws"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -183,30 +179,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0cee2041d589b9b2",
+  "active": "2a86f9b32bf0795c",
   "lastOpenFiles": [
-    "Lecture 1/Muscle and Joint Forces (Statics).md",
-    "Screenshot 2025-07-30 at 8.33.24 pm.png",
-    "Lecture 1/Levers.md",
-    "Lecture 1/Free Body Diagram.md",
-    "Lecture 1/Equilibrium.md",
-    "Lecture 1/Newton’s Laws.md",
-    "Lecture 1/Moment and Couple.md",
-    "Lecture 1/Force and Torque.md",
-    "Lecture 1/-Muscle and Joint Forces-.md",
-    "Screenshot 2025-07-29 at 7.49.02 pm.png",
-    "Pictures/Screenshot 2025-07-29 at 1.26.52 pm.png",
-    "Pictures",
-    "Pictures/Screenshot 2025-07-29 at 1.27.30 pm.png",
-    "Lecture 2/-Kinematics-.md",
-    "Lecture 2/Joint Movement.md",
     "EGH418.md",
-    "Lecture 2/Basics.md",
-    "Lecture 2/Filtering.md",
+    "Lecture 3/-Anthropometry-.md",
+    "Lecture 4/Inverse Dynamics in 3D.md",
+    "Lecture 4/3D Kinematics.md",
+    "Gait Analysis.md",
+    "Lecture 4/-Gait Analysis-.md",
+    "Lecture 4/Force Measurement.md",
+    "Lecture 4/Center of Rotation in 2D.md",
+    "Lecture 4/images/page51_img1.png",
+    "Lecture 4/images/page50_img1.png",
+    "Lecture 4/images/page81_img2.png",
+    "Lecture 4/images/page80_img2.png",
+    "Lecture 4/images/page64_img3.png",
+    "Lecture 4/images/page18_img1.png",
+    "Lecture 4/images/page19_img1.png",
+    "Lecture 4/images/page64_img2.png",
+    "Lecture 4/images/page65_img2.png",
+    "Lecture 4/images/page26_img1.png",
+    "Lecture 4/Motion Capture Systems.md",
+    "Lecture 4/Models for Gait.md",
+    "Lecture 4/Marker Models.md",
+    "Lecture 4/images",
+    "Lecture 4",
+    "untitled folder",
+    "Lecture 3/-Kinetics-.md",
+    "Lecture 3/Bone-on-Bone Force.md",
     "Lecture 2/Discrete Kinematic.md",
-    "Lecture 2/Finite Difference.md",
+    "Lecture 2/-Kinematics-.md",
+    "Lecture 3/Equations of Motion.md",
+    "Lecture 3/Joint Power.md",
+    "Lecture 3/Ground Reaction Force.md",
+    "Lecture 3/Inverse Dynamics.md",
+    "Lecture 3/Joint Reaction Force.md",
+    "Lecture 3/Net Muscle Moment.md",
+    "Lecture 3/Link Segment Model.md",
+    "Lecture 3/Net Joint Moments.md",
+    "Lecture 2/Joint Movement.md",
+    "Lecture 2/Filtering.md",
     "Lecture 2/Rigid Body.md",
-    "Lecture 2/Particle Motion.md",
+    "Lecture 3",
+    "Pictures",
     "Lecture 2",
     "Lecture 1"
   ]
