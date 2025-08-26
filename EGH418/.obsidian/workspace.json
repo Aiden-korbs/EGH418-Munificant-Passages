@@ -25,10 +25,14 @@
             "id": "2a86f9b32bf0795c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Assignment/MATLAB Workshop Content.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MATLAB Workshop Content"
             }
           }
         ],
@@ -181,6 +185,8 @@
   },
   "active": "2a86f9b32bf0795c",
   "lastOpenFiles": [
+    "Assignment/MATLAB Workshop Content.md",
+    "Assignment",
     "EGH418.md",
     "Lecture 3/-Anthropometry-.md",
     "Lecture 4/Inverse Dynamics in 3D.md",
@@ -219,7 +225,6 @@
     "Lecture 3/Net Joint Moments.md",
     "Lecture 2/Joint Movement.md",
     "Lecture 2/Filtering.md",
-    "Lecture 2/Rigid Body.md",
     "Lecture 3",
     "Pictures",
     "Lecture 2",
