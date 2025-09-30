@@ -37,3 +37,30 @@
     2. Perturb marker positions to **maximise/minimise joint angles**.
     3. Apply process to hip/knee, ankle, and foot markers.
     4. Export perturbed trajectories and re-use in earlier scripts to compute **uncertainty bounds for joint angles and moments**.
+
+---
+## Week 8 – Composite Beam Theory & Plate Fixation
+
+This workshop applied composite beam theory to analyse the mechanics of a bone-plate system used in fracture fixation.
+### Key Concepts & Skills
+- **Parametric Analysis**: Used MATLAB to run a parametric study by varying plate stiffness (`E_p`) and bone diameter (`D_o`).
+    
+- **Composite Beam Calculations**: Implemented equations to find the **neutral axis** location and the overall **bending stiffness** of the composite system.
+    
+- **Data Visualisation**: Created plots to visualise how changes in material properties and geometry affect the system's mechanics.
+    
+- **Stress Shielding Analysis**: Plotted the resulting **stress and strain distributions** to understand and quantify the concept of stress shielding.
+
+---
+
+## Week 10 – Shoulder Stability Analysis
+
+This workshop used MATLAB to visualise glenohumeral joint forces and assess joint stability using the "stability cone" concept.
+### Key Concepts & Skills
+- **3D Plotting**: Used advanced plotting functions like `plot3`, `surf`, and `quiver3` to create 3D visualisations.
+    
+- **Data Handling**: Imported and plotted multiple components of **bone-on-bone force** data against the arm's elevation angle.
+    
+- **Geometric Modelling**: Implemented the parametric equation of an ellipsoidal cone to model the **stability cone** of the glenoid.
+    
+- **Biomechanical Assessment**: Assessed joint stability by determining if the calculated joint reaction force vector remained inside the stability cone throughout the abduction motion.
