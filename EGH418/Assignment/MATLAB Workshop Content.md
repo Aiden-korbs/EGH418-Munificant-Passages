@@ -37,7 +37,3 @@
     2. Perturb marker positions to **maximise/minimise joint angles**.
     3. Apply process to hip/knee, ankle, and foot markers.
     4. Export perturbed trajectories and re-use in earlier scripts to compute **uncertainty bounds for joint angles and moments**.
-
-
-
-Cell 325 - 468
