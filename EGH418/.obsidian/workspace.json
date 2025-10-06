@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EGH418.md",
+                "file": "Lecture 4/Inverse Dynamics in 3D.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EGH418"
+              "title": "Inverse Dynamics in 3D"
             }
           }
         ]
@@ -171,24 +171,26 @@
   },
   "active": "b6568eebf6a41d70",
   "lastOpenFiles": [
-    "MATLAB/MATLAB Workshop Content Summary.md",
+    "Lecture 9/Modelling of the Spine.md",
+    "Lecture 10/-Shoulder Biomechanics-.md",
+    "Lecture 10/Shoulder Kinematics.md",
+    "Lecture 9/Spinal Pathologies.md",
+    "Lecture 9/Spinal Kinematics.md",
+    "Lecture 3/-Kinetics-.md",
+    "Lecture 3/-Anthropometry-.md",
     "EGH418.md",
+    "MATLAB/MATLAB Workshop Content Summary.md",
     "Pictures/Screenshot 2025-09-30 at 12.29.07 pm.png",
     "Lecture 10/Shoulder Pathologies and Treatments.md",
     "Pictures/Screenshot 2025-09-30 at 12.31.02 pm.png",
     "Pictures/Screenshot 2025-09-30 at 12.30.23 pm.png",
     "Lecture 10/Shoulder Anatomy and Stabilisers.md",
-    "Lecture 10/Shoulder Kinematics.md",
     "Pictures/Screenshot 2025-09-30 at 12.29.36 pm.png",
-    "Lecture 10/-Shoulder Biomechanics-.md",
     "Lecture 10",
     "Lecture 9/-Spine Biomechanics-.md",
     "Pictures/Screenshot 2025-09-30 at 12.09.08 pm.png",
-    "Lecture 9/Spinal Pathologies.md",
     "Pictures/Screenshot 2025-09-30 at 12.18.45 pm.png",
-    "Lecture 9/Spinal Kinematics.md",
     "Pictures/Screenshot 2025-09-30 at 12.18.12 pm.png",
-    "Lecture 9/Modelling of the Spine.md",
     "Lecture 9/Loads on the Spine.md",
     "Lecture 9/Functional Anatomy of the Spine.md",
     "Lecture 8/Strategies to Reduce Hip Joint Load.md",
@@ -208,8 +210,6 @@
     "Lecture 7/Wolff's Law and Mechanostat Theory.md",
     "Lecture 7/Rules of Bone Adaptation.md",
     "Lecture 7/Mechanical Stimulus for Bone Adaptation.md",
-    "Lecture 7/Computational Bone Adaptation Models.md",
-    "Lecture 7/Bone Modelling and Remodelling.md",
     "Lecture 7",
     "Untitled.base",
     "Lecture 6",
