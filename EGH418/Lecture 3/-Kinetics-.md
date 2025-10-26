@@ -4,6 +4,6 @@
 - [[Net Muscle Moment]]
 - [[Joint Reaction Force]]
 - [[Bone-on-Bone Force]]
-- [[Inverse Dynamics]]
+- [[Lecture 3/Inverse Dynamics]]
 - [[Ground Reaction Force]]
 - [[Joint Power]]

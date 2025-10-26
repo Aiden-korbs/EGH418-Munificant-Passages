@@ -7,5 +7,5 @@ Measured by force plates, decomposed into:
 
 Units: Newtons (N).
 
-Used as input to [[Inverse Dynamics]].
+Used as input to [[Lecture 3/Inverse Dynamics]].
 

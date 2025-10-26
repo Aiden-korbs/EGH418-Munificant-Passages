@@ -1,7 +1,7 @@
 
 Net joint moment: the net rotational effect of all muscles, ligaments, and other structures crossing a joint.
 
-In biomechanics, this is often calculated using [[Inverse Dynamics]] based on:
+In biomechanics, this is often calculated using [[Lecture 3/Inverse Dynamics]] based on:
 
 - Kinematic data (segment positions, velocities, accelerations)
 - Kinetic data (forces, moments)

@@ -91,5 +91,5 @@ $$
 ## Relation to [[Link Segment Model]]
 
 These parameters are essential inputs for:
-- Calculating net joint moments via [[Inverse Dynamics]]
+- Calculating net joint moments via [[Lecture 3/Inverse Dynamics]]
 - Estimating segmental forces and accelerations from [[-Kinematics-]]
