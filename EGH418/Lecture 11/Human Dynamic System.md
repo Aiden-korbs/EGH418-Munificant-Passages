@@ -1,47 +1,50 @@
 ["Human Anatomy for Modelling"]
+
+This lecture describes the components of the human body as a dynamic musculoskeletal system.
+
 ## 1. Human Bones
 
-- **Count:** ~206 bones
+- **Quantity:** ~206 bones in the human body.
     
-- **Properties:** Most rigid structure ($E \approx 20$ GPa).
+- **Properties:** Most rigid structure ($E \approx 20$ GPa). Come in many shapes (long, short, flat, irregular).
     
-    - _See Slide 3 for image of different bone types (Flat, Irregular, Long, Short)._
-        
 - **Roles:**
     
-    - Provide body structure
+    - Give body structure.
         
-    - Protect internal organs
+    - Protect internal organs.
         
-    - Provide anchor points for muscles
+    - Provide anchor points for muscles.
         
-    - Origin of joint motion
+    - Origin of joint motion.
         
+- _(See Slide 3 in `MSK+modelling+lecture.pdf` for images of bone types)_
+    
 
 ## 2. Human Joints
 
-- **Count:** ~350 joints (articulation of two bones)
+- **Quantity:** ~350 joints (articulations between two bones).
     
-- **Properties:** Each joint has one or more Degrees of Freedom (DOF), usually rotational.
+- **Properties:** Each joint has one or more Degrees of Freedom (DOF), usually rotational (e.g., hinge, plane, ball-and-socket).
     
-    - _See Slide 4 for image of different joint types (Plane, Hinge, Condyloid, Ball-and-Socket)._
-        
 - **Roles:**
     
-    - Provide motion between segments
+    - Provide the DOFs for motion.
         
-    - Limit the range of motion
+    - Limit the range of motion.
         
+- _(See Slide 4 in `MSK+modelling+lecture.pdf` for images of joint types)_
+    
 
 ## 3. Human Muscles (Musculo-Tendon Complex)
 
-- **Count:** ~650 skeletal muscles
+- **Quantity:** ~650 skeletal muscles.
     
-- **Tendon:** Passive tissue that anchors muscle to bone.
+- **Components:**
     
-- **Muscle:** Active tissue that produces force by shortening fibers.
-    
-    - _See Slide 5 for images of human musculature and the smallest muscle (Stapedius)._
+    - **Tendon:** Passive tissue, anchors muscle to bone.
+        
+    - **Muscle:** Active tissue, produces force by shortening fibres.
         
 - **Roles:**
     
@@ -49,22 +52,20 @@
         
     - Acts as levers to produce motion around joints.
         
-    - Ensure joint stability.
+    - Ensures stability of the joint.
         
-
-## Purpose of the System
-
-Used for daily living activities, sport performance, etc.
-
-- _See Slide 6 for illustration of daily activities._ Defects (arthritis, fracture, strain) impact function.
-    
-- _See Slide 7 for images of joint arthritis, bone fracture, muscle strains._ Implants and surgeries aim to restore/optimise function.
-    
-- _See Slide 8 for images of joint arthroplasty, plate fixation, soft-tissue repair._
+- _(See Slide 5 in `MSK+modelling+lecture.pdf` for muscle/tendon diagrams)_
     
 
-## The Goal of MSK Modelling
+## Purpose of Modelling
 
-Internal body forces (bone-implant contact, muscle-tendon forces) are the "holy grail" of biomechanics but are very invasive to measure.
+- We use MSK models to estimate **internal body forces** (muscle forces, joint contact forces).
+    
+- This information is the "holy grail" of biomechanics but is rarely accessible, as direct measurement is highly invasive (e.g., instrumented implants, tendon transducers).
+    
+- Therefore, we use dynamic laws to _estimate_ these forces.
+    
+- _(See Slide 9 in `MSK+modelling+lecture.pdf` for images of invasive measurement)_
+    
 
-- _See Slide 9 for examples of invasive force measurement techniques (instrumented implants, tendon transducers) vs. computational estimation._ We use dynamic laws and computational models to _estimate_ internal body forces during motion.
+(Linked from [[MSK Modelling]])

@@ -1,47 +1,33 @@
 ["OpenSim Software"]
 
-**OpenSim** is a widely used, free, and open-source software application for [[EGH418 - MSK Modelling - Main|Musculoskeletal Modelling]] and simulation.
+OpenSim is a free, open-source, and extensible software application for musculoskeletal modelling and simulation.
 
-## Key Features & Purpose
+_(See Slide 37 in `MSK+modelling+lecture.pdf` for OpenSim logo and GUI)_
 
-- **Free & Open-Source:** Accessible to researchers and students worldwide.
+## Key Features
+
+- **Free & Open-Source:** Widely used in biomechanics research.
     
-- **Platform:** Developed at Stanford University, with a large user community.
+- **Functionality:** Implements the full [[Inverse Dynamics|Inverse Dynamics]] workflow (IK, ID, SO, JRA) as well as [[Forward Dynamics|Forward Dynamics]] simulations.
     
-- **Functionality:** Provides tools to perform the entire [[EGH418 - MSK Modelling - 4. Inverse Dynamics|Inverse Dynamics]] workflow:
+- **Community:** Model and data sharing is strongly encouraged via SimTK.org.
     
-    1. Model Scaling
-        
-    2. Inverse Kinematics (IK)
-        
-    3. Inverse Dynamics (ID)
-        
-    4. Static Optimisation (SO)
-        
-    5. Joint Reaction Analysis (JRA)
-        
-    
-    - Also supports [[EGH418 - MSK Modelling - 3. Forward Dynamics|Forward Dynamics]] simulations.
-        
-- **Extensibility:** Can be controlled via Graphical User Interface (GUI), scripting (MATLAB, Python), and C++ API.
-    
-- **Model Sharing:** Encourages sharing of models and data through platforms like SimTK.org.
-    
-- _See Slide 37 for screenshot of the OpenSim interface._
+- **Extensible:** Can be controlled via GUI, or scripted with MATLAB and Python.
     
 
 ## Applications
 
-OpenSim is used in diverse fields:
+- Gait analysis in patients (e.g., cerebral palsy)
+    
+- Sports biomechanics (e.g., golf swing)
+    
+- Surgical planning (e.g., joint replacement)
+    
+- Prosthetics and exoskeleton design
+    
+- Comparative anatomy (e.g., kangaroo, dog models)
+    
+- _(See Slide 38 in `MSK+modelling+lecture.pdf` for application examples)_
+    
 
-- **Biomechanics Research:** Understanding normal and pathological movement (gait, sports).
-    
-- **Clinical Applications:** Surgical planning, rehabilitation assessment.
-    
-- **Ergonomics:** Analyzing workplace movements.
-    
-- **Robotics:** Designing prosthetics, exoskeletons, humanoid robots.
-    
-- **Comparative Biology:** Modelling animal locomotion (e.g., kangaroos, dogs).
-    
-- _See Slide 38 for images showcasing various OpenSim applications._
+(Linked from [[MSK Modelling]])
