@@ -36,7 +36,7 @@ To create a computational model, we must make several simplifying assumptions.
         
     - This torque is a product of the force and the muscle's **lever arm (**$L_{MA}$**)**.
         
-    - `$\tau_{Deltoid} = F_{Deltoid} \cdot L_{MA}$`
+    - $\tau_{Deltoid} = F_{Deltoid} \cdot L_{MA}$
         
     - This is different from most robots, which are torque-driven.
         

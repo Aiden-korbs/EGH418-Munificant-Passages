@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 6/Bone Fracture Patterns.md",
+                "file": "Lecture 11/Forward Dynamics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bone Fracture Patterns"
+              "title": "Forward Dynamics"
             }
           }
         ]
@@ -171,24 +171,25 @@
   },
   "active": "b6568eebf6a41d70",
   "lastOpenFiles": [
-    "EGH418.md",
-    "Lecture 11/MSK Modelling Hub.md",
-    "Lecture 11/Validation and Subject Specific.md",
-    "Lecture 11/Modelling Assumptions.md",
-    "Lecture 11/Inverse Dynamics.md",
     "Lecture 11/Human Dynamic System.md",
-    "Lecture 11/Forward Dynamics.md",
+    "Lecture 11/Inverse Dynamics.md",
+    "Lecture 11/Validation and Subject Specific.md",
     "Lecture 11/OpenSim.md",
-    "Lecture 12/Case Studies.md",
-    "Untitled.base",
-    "Lecture 12/Appositional Growth.md",
+    "Lecture 11/MSK Modelling.md",
+    "Lecture 11/Modelling Assumptions.md",
+    "Lecture 11/Forward Dynamics.md",
     "Lecture 12/Functional Adaptation.md",
-    "Lecture 12/Historical Foundation.md",
-    "Lecture 12/Joint Development.md",
+    "Lecture 12/Case Studies.md",
     "Lecture 12/Longitudinal Bone Growth.md",
     "Lecture 12/Pattern Formation.md",
     "Lecture 12/Role of Cartilage.md",
     "Lecture 12/Skeletal Growth.md",
+    "Lecture 6/Bone Fracture Patterns.md",
+    "EGH418.md",
+    "Untitled.base",
+    "Lecture 12/Appositional Growth.md",
+    "Lecture 12/Historical Foundation.md",
+    "Lecture 12/Joint Development.md",
     "Untitled 1.base",
     "Lecture 12/Skeletal Growth and Adaptation.md",
     "Lecture 11/Skeletal Growth and Adaptation.md",
@@ -200,7 +201,6 @@
     "Lecture 9/Modelling of the Spine.md",
     "Lecture 10/-Shoulder Biomechanics-.md",
     "Lecture 10/Shoulder Kinematics.md",
-    "Lecture 9/Spinal Pathologies.md",
     "Pictures/Screenshot 2025-09-30 at 12.29.07 pm.png",
     "Pictures/Screenshot 2025-09-30 at 12.31.02 pm.png",
     "Pictures/Screenshot 2025-09-30 at 12.30.23 pm.png",

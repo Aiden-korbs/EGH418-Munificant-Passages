@@ -19,17 +19,17 @@ Neural Command ($u(t)$) $\rightarrow$ Contraction Dynamics $\rightarrow$ Muscle 
 
 The core of forward dynamics is solving the equation of motion for angular acceleration ($\ddot{q}$), which is then integrated to find velocity and position ($q$):
 
-`$\ddot{q} = M(q)^{-1} \{ \tau_{m}(a,l,\dot{l}) - C(q,\dot{q}) + G(q) + F \}$` Where:
+$\ddot{q} = M(q)^{-1} \{ \tau_{m}(a,l,\dot{l}) - C(q,\dot{q}) + G(q) + F \}$` Where:
 
-- `$M(q)$`: Mass matrix
+- $M(q)$: Mass matrix
     
-- `$\tau_m$`: Muscle-generated joint moments
+- $\tau_m$: Muscle-generated joint moments
     
-- `$C(q,\dot{q})$`: Coriolis and centripetal forces
+- $C(q,\dot{q})$: Coriolis and centripetal forces
     
-- `$G(q)$`: Gravitational forces
+- $G(q)$: Gravitational forces
     
-- `$F$`: External forces _(See Slide 21 in `MSK+modelling+lecture.pdf`)_
+- $F$: External forces _(See Slide 21 in `MSK+modelling+lecture.pdf`)_
     
 
 ## Use Cases & Challenges
